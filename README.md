@@ -1,6 +1,5 @@
-# cynor
+# Cynor Technology
 
-Cynor Technology
 - Website made during Cert IV Web-Based Technologies
 - Created a website for a fake business called Cynor Technology
 - Used Bootstrap, HTML, CSS
